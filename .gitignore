@@ -1,1 +1,5 @@
 /build/
+
+.apt_generated
+.settings
+.classpath
